@@ -4,10 +4,11 @@ namespace Accumulator {
     class Program {
 
         /// <summary>
-        /// Program sete value of a lower and upper variable equal to the lowest and highest values in an array.
+        /// Program sets value of a lower and upper variable equal to the lowest and highest values in an array.
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args) {
+
             //var total = 0;
             //for  (int num = 0; num <= 50; num++) {
             //    if (num % 5 == 0 || num % 7 == 0) //checks if dividible by 5 or 7
